@@ -7,6 +7,7 @@ https://wafuwafu13.hateblo.jp/entry/wafuwafuportfolio
 - :earth_asia:  All OSS contributes [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+-user%3Awafuwafu13+author%3Awafuwafu13+-org%3Ahatena+-org%3Amaychannel-dev+-org%3Amitsueda-itsuki+-org%3Atam-bourine+-org%3Amiraiproject+-org%3Ayasagit+-org%3Aryota917+-org%3Acybozu+is%3Aclosed+).
 - 🦕  Interested in Deno.
   - [I contribute to denoland 1 month in a row](https://wafuwafu13.hatenadiary.com/entry/2021/10/23/161429)
+  - [Architecture of nodejs/node and denoland/deno_std/node](https://wafuwafu13.hatenadiary.com/entry/2021/12/16/191500)
   - denoland [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+-user%3Awafuwafu13+author%3Awafuwafu13+org%3Adenoland)
   - denodrivers [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+-user%3Awafuwafu13+author%3Awafuwafu13+org%3Adenodrivers)
 - :heartbeat: Love front-end ecosystems(Babel/ESLint/Prettier/DefinitelyTyped...).
