@@ -1,4 +1,4 @@
-[Resume](https://docs.google.com/document/d/1l4v60BN425cmA5NoPSaGReXqEk0_rVyjRGIX6-_wUmc/edit?usp=sharing)
+### [Resume](https://docs.google.com/document/d/1l4v60BN425cmA5NoPSaGReXqEk0_rVyjRGIX6-_wUmc/edit?usp=sharing)
 
 ### OSS Contribution
 
