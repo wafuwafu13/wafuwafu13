@@ -1,6 +1,4 @@
-### Portfolio
-
-https://wafuwafu13.hateblo.jp/entry/wafuwafuportfolio
+[Resume](https://docs.google.com/document/d/1l4v60BN425cmA5NoPSaGReXqEk0_rVyjRGIX6-_wUmc/edit?usp=sharing)
 
 ### OSS Contribution
 
