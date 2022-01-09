@@ -10,7 +10,8 @@
   - denodrivers [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+-user%3Awafuwafu13+author%3Awafuwafu13+org%3Adenodrivers)
 - :heartbeat: Love front-end ecosystems(Babel/ESLint/Prettier/DefinitelyTyped...).
   - [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+-user%3Awafuwafu13+author%3Awafuwafu13+org%3ADefinitelyTyped+org%3Ababel+org%3Aprettier+org%3Aeslint+org%3Asindresorhus+org%3Aaxios+org%3Atypescript-eslint)
-- :pencil:  Place a lot of importance on testing(Unit Testing/Snapshot Testing/E2E Testing...).
-  - [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+-user%3Awafuwafu13+author%3Awafuwafu13+org%3Aredwoodjs+org%3Acoston+org%3Azpao+org%3Ayamafaktory+)
+- :pencil:  Place a lot of importance on testing.
+  - Write Unit Testing/Snapshot Testing/E2E Testing...  [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+-user%3Awafuwafu13+author%3Awafuwafu13+org%3Aredwoodjs+org%3Acoston+org%3Azpao+org%3Ayamafaktory+)
+  - Contribute to [Selenium](https://github.com/pulls?q=involves%3Awafuwafu13+-user%3Awafuwafu13+author%3Awafuwafu13+org%3ASeleniumHQ)
 - :dog: Member of [reviewdog](https://github.com/reviewdog)
 - 🔍 Author of [Chromium](https://chromium.googlesource.com/chromium/src/+/HEAD/AUTHORS)
