@@ -14,4 +14,5 @@
   - Write Unit Testing/Snapshot Testing/E2E Testing...  [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+-user%3Awafuwafu13+author%3Awafuwafu13+org%3Aredwoodjs+org%3Acoston+org%3Azpao+org%3Ayamafaktory+)
   - Contribute to [Selenium](https://github.com/pulls?q=involves%3Awafuwafu13+-user%3Awafuwafu13+author%3Awafuwafu13+org%3ASeleniumHQ)
 - :dog: Member of [reviewdog](https://github.com/reviewdog)
+  - Responding to issues. ex) [Fail running rubocop step if rubocop command itself fails](https://github.com/reviewdog/action-rubocop/issues/60)
 - 🔍 Author of [Chromium](https://chromium.googlesource.com/chromium/src/+/HEAD/AUTHORS)
