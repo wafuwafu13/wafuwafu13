@@ -1,4 +1,9 @@
-### [Resume](https://docs.google.com/document/d/1l4v60BN425cmA5NoPSaGReXqEk0_rVyjRGIX6-_wUmc/edit?usp=sharing)
+### Links
+
+- [Resume](https://docs.google.com/document/d/1l4v60BN425cmA5NoPSaGReXqEk0_rVyjRGIX6-_wUmc/edit?usp=sharing)
+- [Linkedin](https://www.linkedin.com/in/hirotaka-tagawa/)
+- [Portfolio](https://wafuwafu13.hateblo.jp/)
+- [Twitter](https://twitter.com/wafuwafu13_)
 
 ### OSS Contribution
 
