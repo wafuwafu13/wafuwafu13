@@ -26,5 +26,5 @@
   - Responding to issues
     - ex) [Fail running rubocop step if rubocop command itself fails](https://github.com/reviewdog/action-rubocop/issues/60)
 - 🔍 Interested in browser
-  - Author of [Chromium](https://chromium.googlesource.com/chromium/src/+/HEAD/AUTHORS)
+  - Add the document of Chromium [Log](https://chromium-review.googlesource.com/c/chromium/src/+/3351802)
   - Contribute to [Selenium](https://github.com/pulls?q=involves%3Awafuwafu13+-user%3Awafuwafu13+author%3Awafuwafu13+org%3ASeleniumHQ)
