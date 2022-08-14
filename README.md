@@ -1,4 +1,3 @@
-- [Resume](https://docs.google.com/document/d/1l4v60BN425cmA5NoPSaGReXqEk0_rVyjRGIX6-_wUmc/edit?usp=sharing)
 - :earth_asia:  All OSS contributes [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+-user%3Awafuwafu13+author%3Awafuwafu13+-org%3Ahatena+-org%3Amaychannel-dev+-org%3Apanorama32+-org%3Atam-bourine+-org%3Amiraiproject+-org%3Ayasagit+-org%3Aryota917+-org%3Acybozu+-org%3ADoer-org+-org%3Anisi0929+)
 - 🦕  Interested in Deno
   - denoland [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+-user%3Awafuwafu13+author%3Awafuwafu13+org%3Adenoland)
