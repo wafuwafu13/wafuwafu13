@@ -5,7 +5,7 @@
   - Blog: [I contribute to denoland 1 month in a row](https://wafuwafu13.hatenadiary.com/entry/2021/10/23/161429)
   - Blog: [Architecture of nodejs/node and denoland/deno_std/node](https://wafuwafu13.hatenadiary.com/entry/2021/12/16/191500)
 - ☁️ Cloud Computing
-  - Mackerel/Kubernetes/Terraform... [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+-user%3Awafuwafu13+author%3Awafuwafu13+org%3Akubernetes+org%3Akreuzwerker+org%3Aterraform+org%3Amackerelio)
+  - Mackerel/Kubernetes/Terraform... [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+-user%3Awafuwafu13+author%3Awafuwafu13+org%3Akubernetes+org%3Akreuzwerker+org%3Ahashicorp+org%3Amackerelio+)
 - ✨ Frontend Ecosystems
   - Babel/ESLint/Prettier... [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+-user%3Awafuwafu13+author%3Awafuwafu13+org%3ADefinitelyTyped+org%3Ababel+org%3Aprettier+org%3Aeslint+org%3Asindresorhus+org%3Aaxios+org%3Atypescript-eslint)
   - Owner of @type/ace
