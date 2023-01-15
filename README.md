@@ -18,7 +18,7 @@
   - Mackerel/Kubernetes/Terraform... [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+-user%3Awafuwafu13+author%3Awafuwafu13+org%3Akubernetes+org%3Akreuzwerker+org%3Ahashicorp+org%3Amackerelio+org%3Amackerelio-labs+org%3Aetcd-io)
 - ✨ Frontend Ecosystems
   - Babel/ESLint/Prettier... [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+-user%3Awafuwafu13+author%3Awafuwafu13+org%3ADefinitelyTyped+org%3Ababel+org%3Aprettier+org%3Aeslint+org%3Asindresorhus+org%3Aaxios+org%3Atypescript-eslint)
-  - Owner of @type/ace
+  - Maintainer of @type/ace
     - ex)[[Ace] Update definitions](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/58442)
   - Blog: [Notes on the breaking change that occurred in Axios v0.25.0](https://wafuwafu13.hatenadiary.com/entry/2022/01/25/221727)
 - :pencil:  Testing
