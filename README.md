@@ -14,8 +14,9 @@
   - denodrivers [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+-user%3Awafuwafu13+author%3Awafuwafu13+org%3Adenodrivers)
   - Blog: [I contribute to denoland 1 month in a row](https://wafuwafu13.hatenadiary.com/entry/2021/10/23/161429)
   - Blog: [Architecture of nodejs/node and denoland/deno_std/node](https://wafuwafu13.hatenadiary.com/entry/2021/12/16/191500)
-- ☁️ Deployment
-  - Mackerel/Kubernetes/Terraform... [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+-user%3Awafuwafu13+author%3Awafuwafu13+org%3Akubernetes+org%3Akreuzwerker+org%3Ahashicorp+org%3Amackerelio+org%3Amackerelio-labs+org%3Aetcd-io)
+- :cloud: Deployment
+  - Worked at [Mackerel](https://en.mackerel.io/) team [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+org%3Amackerelio+org%3Amackerelio-labs)
+  - etcd/Kubernetes/Terraform... [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+-user%3Awafuwafu13+author%3Awafuwafu13+org%3Akubernetes+org%3Akreuzwerker+org%3Ahashicorp+org%3Aetcd-io+)
 - ✨ Frontend Ecosystems
   - Babel/ESLint/Prettier... [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+-user%3Awafuwafu13+author%3Awafuwafu13+org%3ADefinitelyTyped+org%3Ababel+org%3Aprettier+org%3Aeslint+org%3Asindresorhus+org%3Aaxios+org%3Atypescript-eslint)
   - Maintainer of @type/ace
