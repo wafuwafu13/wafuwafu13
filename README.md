@@ -13,7 +13,7 @@
   - node [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+-user%3Awafuwafu13+author%3Awafuwafu13+org%3Anodejs)
   - denodrivers [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+-user%3Awafuwafu13+author%3Awafuwafu13+org%3Adenodrivers)
   - Blog: [I contribute to denoland 1 month in a row](https://wafuwafu13.hatenadiary.com/entry/2021/10/23/161429)
-  - Blog: [Architecture of nodejs/node and denoland/deno_std/node](https://wafuwafu13.hatenadiary.com/entry/2021/12/16/191500)
+  - Blog: [About Deno 1.34 API changes - Deno.FileInfo](https://wafuwafu13.hatenadiary.com/entry/2023/05/26/055650)
 - :cloud: Deployment
   - Worked at [Mackerel](https://en.mackerel.io/) team [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+org%3Amackerelio+org%3Amackerelio-labs)
   - etcd/Kubernetes/Terraform... [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+-user%3Awafuwafu13+author%3Awafuwafu13+org%3Akubernetes+org%3Akreuzwerker+org%3Ahashicorp+org%3Aetcd-io+)
