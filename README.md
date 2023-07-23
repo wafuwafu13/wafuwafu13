@@ -16,7 +16,7 @@
   - Blog: [About Deno 1.34 API changes - Deno.FileInfo](https://wafuwafu13.hatenadiary.com/entry/2023/05/26/055650)
 - :cloud: Deployment
   - Worked at [Mackerel](https://en.mackerel.io/) team [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+org%3Amackerelio+org%3Amackerelio-labs)
-  - etcd/Kubernetes/Terraform... [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+-user%3Awafuwafu13+author%3Awafuwafu13+org%3Akubernetes+org%3Akreuzwerker+org%3Ahashicorp+org%3Aetcd-io+)
+  - etcd/Kubernetes/Terraform... [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+-user%3Awafuwafu13+author%3Awafuwafu13+org%3Akubernetes+org%3Akreuzwerker+org%3Ahashicorp+org%3Aetcd-io+org%3Aopen-telemetry)
 - 📦 AWS
   - aws/aws-samples [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+org%3Aaws+org%3Aaws-samples)
 - ✨ Frontend Ecosystems
