@@ -18,6 +18,7 @@
   - Worked at [Mackerel](https://en.mackerel.io/) team [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+org%3Amackerelio+org%3Amackerelio-labs)
   - etcd/Kubernetes/Terraform... [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+-user%3Awafuwafu13+author%3Awafuwafu13+org%3Akubernetes+org%3Akreuzwerker+org%3Ahashicorp+org%3Aetcd-io+org%3Aopen-telemetry+org%3Akubernetes-sigs)
 - :cloud: AWS
+  - Maintainer of dynein [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+org%3Aawslabs+)
   - aws/aws-samples [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+org%3Aaws+org%3Aaws-samples)
 - ✨ Frontend Ecosystems
   - Babel/ESLint/Prettier... [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+-user%3Awafuwafu13+author%3Awafuwafu13+org%3ADefinitelyTyped+org%3Ababel+org%3Aprettier+org%3Aeslint+org%3Asindresorhus+org%3Aaxios+org%3Atypescript-eslint)
