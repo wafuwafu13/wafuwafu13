@@ -9,9 +9,6 @@
   - [C](https://github.com/pulls?q=involves%3Awafuwafu13+-user%3Awafuwafu13+author%3Awafuwafu13+-org%3Ahatena+-org%3Amaychannel-dev+-org%3Apanorama32+-org%3Atam-bourine+-org%3Amiraiproject+-org%3Ayasagit+-org%3Aryota917+-org%3Acybozu+-org%3ADoer-org+-org%3Amiso-devel+language%3Ac+)
   - [HTML](https://github.com/pulls?q=involves%3Awafuwafu13+-user%3Awafuwafu13+author%3Awafuwafu13+-org%3Ahatena+-org%3Amaychannel-dev+-org%3Apanorama32+-org%3Atam-bourine+-org%3Amiraiproject+-org%3Ayasagit+-org%3Aryota917+-org%3Acybozu+-org%3ADoer-org+-org%3Amiso-devel+language%3Ahtml+)
   - [Shell](https://github.com/pulls?q=involves%3Awafuwafu13+-user%3Awafuwafu13+author%3Awafuwafu13+-org%3Ahatena+-org%3Amaychannel-dev+-org%3Apanorama32+-org%3Atam-bourine+-org%3Amiraiproject+-org%3Ayasagit+-org%3Aryota917+-org%3Acybozu+-org%3ADoer-org+-org%3Amiso-devel+language%3Ashell+)
-- 😶‍🌫️ AWS
-  - Maintainer of dynein [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+org%3Aawslabs+)
-  - aws/aws-samples [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+org%3Aaws+org%3Aaws-samples)
 - 🦕  Deno
   - denoland [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+-user%3Awafuwafu13+author%3Awafuwafu13+org%3Adenoland)
   - node [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+-user%3Awafuwafu13+author%3Awafuwafu13+org%3Anodejs)
@@ -21,6 +18,9 @@
 - 📦 Deployment
   - Worked at [Mackerel](https://en.mackerel.io/) team [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+org%3Amackerelio+org%3Amackerelio-labs)
   - etcd/Kubernetes/Terraform... [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+-user%3Awafuwafu13+author%3Awafuwafu13+org%3Akubernetes+org%3Akreuzwerker+org%3Ahashicorp+org%3Aetcd-io+org%3Aopen-telemetry+org%3Akubernetes-sigs)
+- 😶‍🌫️ AWS
+  - Maintainer of dynein [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+org%3Aawslabs+)
+  - aws/aws-samples [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+org%3Aaws+org%3Aaws-samples)
 - ✨ Frontend Ecosystems
   - Babel/ESLint/Prettier... [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+-user%3Awafuwafu13+author%3Awafuwafu13+org%3ADefinitelyTyped+org%3Ababel+org%3Aprettier+org%3Aeslint+org%3Asindresorhus+org%3Aaxios+org%3Atypescript-eslint)
   - Maintainer of @type/ace
