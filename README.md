@@ -18,8 +18,9 @@
 - 📦 Deployment
   - etcd/Kubernetes/Terraform... [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+-user%3Awafuwafu13+author%3Awafuwafu13+org%3Akubernetes+org%3Akreuzwerker+org%3Ahashicorp+org%3Aetcd-io+org%3Aopen-telemetry+org%3Akubernetes-sigs)
 - 😶‍🌫️ AWS
-  - Maintainer of dynein [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+org%3Aawslabs+)
-  - aws/aws-samples [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+org%3Aaws+org%3Aaws-samples)
+  - Maintainer of dynein [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+repo%3Aawslabs%2Fdynein)
+  - valued-contributor of CDK [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+repo%3Aaws%2Faws-cdk+)
+  - aws/aws-samples/awslabs [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+org%3Aaws+org%3Aaws-samples+org%3Aawslabs)
 - 📈 Mackerel
   - Worked at [Mackerel](https://en.mackerel.io/) team [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+org%3Amackerelio+org%3Amackerelio-labs)
   - [Mackerel Ambassador](https://mackerel.io/blog/entry/ambassador/about)
