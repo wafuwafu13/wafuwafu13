@@ -23,7 +23,6 @@
   - other aws/aws-samples/awslabs: [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+org%3Aaws+org%3Aaws-samples+org%3Aawslabs+-repo%3Aaws%2Faws-cdk+-repo%3Aawslabs%2Fdynein+)
 - 📈 Mackerel
   - Worked at [Mackerel](https://en.mackerel.io/) team: [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+org%3Amackerelio+org%3Amackerelio-labs)
-  - [Mackerel Ambassador](https://mackerel.io/blog/entry/ambassador/about)
 - ✨ Frontend Ecosystems
   - Babel/ESLint/Prettier..: [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+-user%3Awafuwafu13+author%3Awafuwafu13+org%3ADefinitelyTyped+org%3Ababel+org%3Aprettier+org%3Aeslint+org%3Asindresorhus+org%3Aaxios+org%3Atypescript-eslint)
   - Maintainer of @type/ace: ex)[[Ace] Update definitions](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/58442)
