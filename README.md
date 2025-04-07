@@ -1,4 +1,21 @@
-
+- 👀 Highlight
+  - Enhanced compatibility with Node.js fs.Stats API by adding fields to the Deno.FileInfo API.
+    - https://deno.com/blog/v1.34#denofileinfo
+  - Implemented the ability to configure security groups for NetworkLoadBalancedFargateService.
+    - https://github.com/aws/aws-cdk/pull/29431
+  - Improved the readability of logs when learner member is added to an etcd cluster.
+    - https://github.com/etcd-io/etcd/pull/15053
+  - Constructed tests to ensure accurate documentation of deprecated information.
+    - https://github.com/eslint/eslint/pull/14989
+  - Made it possible to specify 'latest' for ecmaVersion.
+    - https://github.com/typescript-eslint/typescript-eslint/pull/3873
+  - Resolved download errors by implementing local storage for bootstrap data.
+    - https://github.com/awslabs/dynein/pull/153
+  - Developed a new check DNS plugin, Terraform Provider for Dashboard, and config test.
+    - https://pkg.go.dev/github.com/mackerelio/go-check-plugins/check-dns  
+    - https://github.com/mackerelio-labs/terraform-provider-mackerel/pull/127  
+    - https://github.com/mackerelio/mackerel-agent/issues/810
+    
 - :earth_asia:  All OSS contributes: [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+-user%3Awafuwafu13+author%3Awafuwafu13+-org%3Ahatena+-org%3Amaychannel-dev+-org%3Apanorama32+-org%3Atam-bourine+-org%3Amiraiproject+-org%3Ayasagit+-org%3Aryota917+-org%3Acybozu+-org%3ADoer-org+-org%3Amiso-devel)
   - [JavaScript](https://github.com/pulls?q=involves%3Awafuwafu13+-user%3Awafuwafu13+author%3Awafuwafu13+-org%3Ahatena+-org%3Amaychannel-dev+-org%3Apanorama32+-org%3Atam-bourine+-org%3Amiraiproject+-org%3Ayasagit+-org%3Aryota917+-org%3Acybozu+-org%3ADoer-org+-org%3Amiso-devel+language%3Ajavascript+)
   - [TypeScript](https://github.com/pulls?q=involves%3Awafuwafu13+-user%3Awafuwafu13+author%3Awafuwafu13+-org%3Ahatena+-org%3Amaychannel-dev+-org%3Apanorama32+-org%3Atam-bourine+-org%3Amiraiproject+-org%3Ayasagit+-org%3Aryota917+-org%3Acybozu+-org%3ADoer-org+-org%3Amiso-devel+language%3Atypescript)
