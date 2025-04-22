@@ -1,4 +1,4 @@
-- 👀 Highlight
+- :star: Highlight
   - Enhanced compatibility with Node.js fs.Stats API by adding fields to the Deno.FileInfo API.
     - https://deno.com/blog/v1.34#denofileinfo
   - Implemented the ability to configure security groups for NetworkLoadBalancedFargateService.
