@@ -35,7 +35,7 @@
 - 📦 CNCF
   - etcd/Kubernetes/Terraform..: [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+-user%3Awafuwafu13+author%3Awafuwafu13+org%3Akubernetes+org%3Akreuzwerker+org%3Ahashicorp+org%3Aetcd-io+org%3Aopen-telemetry+org%3Akubernetes-sigs+org%3Alinkerd+repo%3Aaquasecurity%2Ftrivy+)
 - 😶‍🌫️ AWS
-  - valued-contributor of CDK: [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+repo%3Aaws%2Faws-cdk+)
+  - admired-contributor of CDK: [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+repo%3Aaws%2Faws-cdk+)
   - Maintainer of dynein: [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+repo%3Aawslabs%2Fdynein)
   - other aws/aws-samples/awslabs: [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+org%3Aaws+org%3Aaws-samples+org%3Aawslabs+-repo%3Aaws%2Faws-cdk+-repo%3Aawslabs%2Fdynein+)
 - 📈 Mackerel
