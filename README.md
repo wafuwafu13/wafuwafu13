@@ -1,6 +1,7 @@
 - :star: Highlight
   - Enhanced compatibility with Node.js fs.Stats API by adding fields to the Deno.FileInfo API.
     - https://deno.com/blog/v1.34#denofileinfo
+    - https://github.com/denoland/deno/pull/19008
   - Implemented the ability to configure security groups for NetworkLoadBalancedFargateService.
     - https://github.com/aws/aws-cdk/pull/29431
   - Improved the readability of logs when learner member is added to an etcd cluster.
