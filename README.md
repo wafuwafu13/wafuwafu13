@@ -17,7 +17,7 @@
     - https://github.com/mackerelio-labs/terraform-provider-mackerel/pull/127  
     - https://github.com/mackerelio/mackerel-agent/issues/810
     
-- All OSS contributes: [Logs](https://github.com/pulls?q=involves%3Awafuwafu13+-user%3Awafuwafu13+author%3Awafuwafu13+-org%3Ahatena+-org%3Amaychannel-dev+-org%3Apanorama32+-org%3Atam-bourine+-org%3Amiraiproject+-org%3Ayasagit+-org%3Aryota917+-org%3Acybozu+-org%3ADoer-org+-org%3Amiso-devel)
+- All OSS contributes: [Logs](https://github.com/pulls/search?q=involves%3Awafuwafu13+-user%3Awafuwafu13+author%3Awafuwafu13+-org%3Ahatena+-org%3Amaychannel-dev+-org%3Amiraiproject+-org%3Acybozu+-org%3ADoer-org+-sort%3Aupdated-desc)
   - [JavaScript](https://github.com/pulls?q=involves%3Awafuwafu13+-user%3Awafuwafu13+author%3Awafuwafu13+-org%3Ahatena+-org%3Amaychannel-dev+-org%3Apanorama32+-org%3Atam-bourine+-org%3Amiraiproject+-org%3Ayasagit+-org%3Aryota917+-org%3Acybozu+-org%3ADoer-org+-org%3Amiso-devel+language%3Ajavascript+)
   - [TypeScript](https://github.com/pulls?q=involves%3Awafuwafu13+-user%3Awafuwafu13+author%3Awafuwafu13+-org%3Ahatena+-org%3Amaychannel-dev+-org%3Apanorama32+-org%3Atam-bourine+-org%3Amiraiproject+-org%3Ayasagit+-org%3Aryota917+-org%3Acybozu+-org%3ADoer-org+-org%3Amiso-devel+language%3Atypescript)
   - [Go](https://github.com/pulls?q=involves%3Awafuwafu13+-user%3Awafuwafu13+author%3Awafuwafu13+-org%3Ahatena+-org%3Amaychannel-dev+-org%3Apanorama32+-org%3Atam-bourine+-org%3Amiraiproject+-org%3Ayasagit+-org%3Aryota917+-org%3Acybozu+-org%3ADoer-org+-org%3Amiso-devel+language%3Ago+)
